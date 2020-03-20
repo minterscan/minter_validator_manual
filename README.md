@@ -12,8 +12,8 @@ Following instruction is an example and is published for information purposes. A
 
 ## Useful links
 * [Minter node](https://github.com/MinterTeam/minter-go-node) — original repo
-* [Ansible config](https://github.com/dmitry-ee/ansible-multiple-minter-nodes) — multiple node installation
-* [Docker file](https://gist.github.com/dmitry-ee/45d5018851bfd41ee915ff407b18ecf8) — install latest node release with Docker
+* [Docker & Docker-Compose setup](https://github.com/dmitry-ee/docker-minter-node) — install latest node release with Docker or Docker-Compose
+* [Ansible setup](https://github.com/dmitry-ee/ansible-multiple-minter-nodes) — multiple node installation (playbook example)
 * [Minter Guard](https://github.com/U-node/minter-guard/) — protection script for emergency candidate shutdown
 
 ## Contributors
